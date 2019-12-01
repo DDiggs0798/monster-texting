@@ -1,0 +1,1 @@
+const messenger = require('./monster-messenger')
